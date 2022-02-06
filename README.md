@@ -49,6 +49,7 @@ Abrir [http://localhost:3000](http://localhost:3000) para ver en el navegador.
 5. Copy the Pixel code in the index.html (inside the app code)
 6. Config the events facebook
 - - Edit the advanced settings (user information)
+- - 
 
 ### `Google`
 

@@ -1,5 +1,108 @@
+/* variables  */
+
+/* 
+#6650F5 -> lila
+#807F7F -> grey - principal - 464545
+*/
 .App {
+  /* text-align: center; */
+  color: #464545;
+}
+.color-lila {
+  color: #6650f5;
+}
+.movil-size-img img {
+  width: 200px;
+}
+.small {
+  font-size: 12px !important;
+}
+.line-height {
+  margin-top: -16px;
+}
+.letter-spacing {
+  letter-spacing: 3px;
+}
+.section-skills {
+  margin-top: 10rem;
+}
+.skills-shape {
+  background: #282c34;
+  width: 55%;
+  padding: 8px 0;
+  color: rgb(255, 255, 255);
+}
+.skills-text {
+  padding-left: 50%;
+}
+.container-skills {
+  position: relative;
+  display: inline-block;
   text-align: center;
+}
+.movil-size-img-2 {
+  width: 370px;
+  margin-top: -2rem;
+}
+.skills-content {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+}
+.margin-left {
+  float: right;
+}
+.skills-javascript {
+  margin-top: -5px;
+  margin-left: 3px;
+}
+.skills-content-text {
+  margin-top: -4px;
+  margin-left: 10px;
+}
+
+.section-experience {
+  height: 25rem;
+}
+.container-experience {
+  background-color: #6650f5;
+  color: white;
+  height: 11rem;
+  border-radius: 4px;
+}
+.experience-img {
+  background-color: white;
+  border-radius: 15px;
+  height: 13rem;
+  -webkit-box-shadow: 0px 4px 10px 10px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 4px 10px 10px rgba(0, 0, 0, 0.08);
+  color: #000;
+}
+
+/* dsdsdsd */
+
+.section-contact {
+  margin: 15rem 0 3rem 0;
+}
+.contact-shape {
+  background: #282c34;
+  width: 55%;
+  padding: 8px 0;
+  color: rgb(255, 255, 255);
+  float: right;
+  margin: 3rem 0;
+}
+.contact-text {
+  padding-left: 15%;
+}
+.container-contact {
+  /* background: #333; */
+  margin-top: 5rem;
+}
+.movil-size-img-2 {
+  width: 370px;
+  margin-top: -2rem;
 }
 
 .App-logo {
